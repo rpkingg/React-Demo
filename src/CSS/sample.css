@@ -1,0 +1,62 @@
+.header-title{
+	font-size: 30px;
+}
+
+.flo-left{
+	float: left;
+}
+
+.itemBtn{
+	color: red;
+}
+
+.itemPanel {
+	width: 50%;
+	border-radius: 4px;
+	margin-bottom: 100px;
+	float: left;
+	clear: both;
+}
+
+.itemTd{
+	width: 20%;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.hereTd{
+	width: 10%;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.tempEmpty {
+	line-height: 1.5em;
+	background: #dcdcdc;
+}
+
+.addForm label{
+	text-align: center;
+}
+.addForm input, .addForm select, .addForm textarea{
+	width: 200px;
+	margin: 0 auto 10px auto;
+	display: block;
+}
+.addForm button {
+	padding: 3px 20px;
+	background-color: white;
+	color: dodgerblue;
+	font-weight: bold;
+	border-radius: 4px;
+	margin: 5px auto;
+	display: block;
+	border: 1px solid dodgerblue;
+}
+
+.tips {
+	display: none;
+	color: #708090;
+	margin: 0 auto;
+	text-align: center;
+}
